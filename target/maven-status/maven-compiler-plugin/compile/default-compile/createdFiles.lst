@@ -1,0 +1,4 @@
+com\resync\unusuals\Main.class
+com\resync\unusuals\utils\Chat.class
+com\resync\unusuals\events\PlayerQuit.class
+com\resync\unusuals\events\PlayerJoin.class
